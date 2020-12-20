@@ -19,3 +19,10 @@ As you can see e4 and d4 are the most commonly used moves as the first move for 
 ![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/top10openings?raw=true)
 
 
+## What are the top 20 openings that resulted in a win for White??
+![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/best4white?raw=true)
+
+
+## What are the top 20 openings that resulted in a win for Black??
+![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/best4black?raw=true)
+
