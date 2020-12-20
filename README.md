@@ -7,4 +7,4 @@ This data was scraped from the Lichess API and includes 20058 rows of data.
 
 
 
-![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/top10firstmoves?raw=true)
+![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/top10firstmoves?raw=true)
