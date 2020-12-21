@@ -32,3 +32,8 @@ As you can see e4 and d4 are the most commonly used moves as the first move for 
 ('흑' 이 가장 많이 이겼던 오프닝 순위)
 ![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/best4black?raw=true)
 
+## Correlation Analysis of ratings when White wins
+![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/blue?raw=true)
+
+## Correlation Analysis of ratings when Black wins
+![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/red?raw=true)
