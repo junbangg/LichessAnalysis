@@ -36,4 +36,4 @@ As you can see e4 and d4 are the most commonly used moves as the first move for 
 ![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/blue.png?raw=true)
 
 ## Correlation Analysis of ratings when Black wins
-![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/red?raw=true)
+![alt text](https://github.com/junbangg/LichessAnalysis/blob/master/Graphs/red.png?raw=true)
