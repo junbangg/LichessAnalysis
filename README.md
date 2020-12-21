@@ -3,7 +3,7 @@ An analysis of Lichess Data using R
 (R을 이용한 Lichess 데이터 분석)
 
 Data source can be found at https://www.kaggle.com/datasnaek/chess
-
+Can also be viewed at https://www.kaggle.com/olafo0o/lichess-data-analsysis
 
 This data was scraped from the Lichess API and includes 20058 rows of data.
 
