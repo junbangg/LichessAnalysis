@@ -9,7 +9,7 @@ This data was scraped from the Lichess API and includes 20058 rows of data.
 
 (본 데이터는 Lichess API 에서 추출 되었고, 총 20058개의 데이터로 이루어져있습니다.)
 
-# Here are some of the observations that I have analyzed from this data 
+# 분석으로 도출한 결과
 
 
 ## What are the top 10 first moves used in Lichess?? 
